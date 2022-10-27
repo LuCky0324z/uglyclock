@@ -1,0 +1,8 @@
+#clock{
+    display: block;
+    color:black;
+    font: 5cm sans-serif; 
+    margin: -685px 581px;
+    padding: 5px;
+    width:160px;
+  }
